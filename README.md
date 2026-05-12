@@ -117,6 +117,8 @@ Maximera:   (wᵀμ - rf) / √(wᵀΣw)    (Sharpe ratio)
 
 ## PNG-chart
 
+![Portfolio minvol](portfolio_minvol.png)
+
 4-panels-visualisering (matplotlib krävs):
 
 1. **Kumulativ avkastning** — portfölj vs benchmark över träningsperioden
