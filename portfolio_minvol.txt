@@ -1,0 +1,57 @@
+MINIMUM VARIANCE PORTFOLIO RESULTS
+============================================================
+Rapport skapad: 2026-05-12 21:41
+Period: 2022-09-01 – 2026-05-11
+Strategy: MINIMUM VARIANCE
+Benchmark: ^OMXSBCAPGI
+Max weight per asset: 15.0%
+
+Asset               Weight     Beta    Alloc (100k)
+-------------------------------------------------------
+BIOA-B.ST             0.4%     0.84            381 SEK
+CLAS-B.ST             0.3%     0.71            326 SEK
+CLA-B.ST              4.6%     0.44          4,551 SEK
+NDA-SE.ST             3.3%     0.69          3,296 SEK
+SAAB-B.ST             3.2%     0.38          3,246 SEK
+ABB.ST                7.1%     0.87          7,135 SEK
+AZN.ST                7.2%     0.37          7,242 SEK
+EVO.ST                4.7%     0.75          4,746 SEK
+SYNSAM.ST             0.9%     0.76            852 SEK
+SOBI.ST               0.8%     0.63            826 SEK
+IPCO.ST               5.1%     0.34          5,088 SEK
+HEM.ST                1.3%     0.66          1,268 SEK
+SHB-A.ST              4.9%     0.63          4,923 SEK
+TEL2-B.ST             0.2%     0.37            245 SEK
+ESSITY-B.ST          15.0%     0.31         15,000 SEK
+AXFO.ST               9.7%     0.25          9,665 SEK
+ACAD.ST               3.6%     0.49          3,557 SEK
+BETS-B.ST             2.6%     0.54          2,615 SEK
+AAK.ST                2.3%     0.53          2,265 SEK
+TELIA.ST             11.9%     0.30         11,904 SEK
+MTG-B.ST              2.3%     0.61          2,288 SEK
+ALIV-SDB.ST           1.3%     0.82          1,321 SEK
+HOLM-B.ST             7.2%     0.61          7,174 SEK
+
+Metric                       Historical Benchmark (^OMXSBCAPGI)
+-----------------------------------------------------------------
+CAGR                             16.47%                 14.36%
+Volatility                       10.28%                 16.34%
+(Ex-Ante Vol)                    10.28%                    ---
+Sharpe Ratio                       1.41                   0.76
+
+Risk Metrics                   Value Benchmark (^OMXSBCAPGI)
+------------------------------------------------------------
+Max Drawdown                 -10.22%                -21.29%
+Daily VaR (95%)               -0.94%                 -1.55%
+Daily CVaR (95%)              -1.42%                 -2.32%
+
+Year          Portfolio            ^OMXSBCAPGI
+------------------------------------------------
+2022              3.45%                  4.44%
+2023             11.80%                 18.61%
+2024             16.69%                  8.00%
+2025             20.58%                 13.63%
+2026              7.48%                  7.59%
+
+NOTE: MinVol minimizes historical volatility, ignoring return predictions.
+'Historical' metrics show how this portfolio would have performed.
