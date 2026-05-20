@@ -1,6 +1,6 @@
 # Portföljteori
 
-Teoretisk bakgrund till strategierna i `portfolio.py`. För praktisk användning, se `portfolio.md`.
+Teoretisk bakgrund till strategierna i `portfolio.py`. För praktisk användning, se `portfolio.md` (README.md).
 
 ## 1. Modern Portfolio Theory (MPT) — Markowitz
 
